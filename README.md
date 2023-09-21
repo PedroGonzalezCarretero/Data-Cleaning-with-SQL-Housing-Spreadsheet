@@ -23,7 +23,11 @@ The code splits the 'PropertyAddress' column into separate 'Address' and 'City' 
 Step 4: Breaking Down Owner Addresses into Individual Columns 🏠👤🌆🌎
 
 Similarly, the code splits the 'OwnerAddress' column into 'Address,' 'City,' and 'State' columns to make it more structured.
-Step 5: Changing 'Y' and 'N' to 'Yes' and 'No' ✅❌
+
+
+
+**
+Step 5: Changing 'Y' and 'N' to 'Yes' and 'No' ✅❌**
 
 The code converts values in the 'SoldAsVacant' column from 'Y' to 'Yes' and from 'N' to 'No' for clarity.
 Step 6: Removing Duplicates 🚫👯‍♀️
