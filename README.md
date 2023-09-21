@@ -1,4 +1,6 @@
 Data Cleaning with SQL - Housing Spreadsheet 🏡
+
+
 Introduction 📄
 
 This repository contains SQL code for cleaning and transforming data from a housing spreadsheet. The code is aimed at improving the quality and usability of the dataset.
